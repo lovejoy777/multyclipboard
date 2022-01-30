@@ -2,9 +2,9 @@ import sys
 import clipboard
 import json
 
-print (sys.argv)
+print(sys.argv)
 
-if len(sys.argv) ==2:
+if len(sys.argv) == 2:
     command = sys.argv[1]
     print(command)
 
@@ -19,3 +19,5 @@ if len(sys.argv) ==2:
 
 else:
     print("please pass exactly one command.")
+
+    testing push
