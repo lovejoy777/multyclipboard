@@ -19,5 +19,3 @@ if len(sys.argv) == 2:
 
 else:
     print("please pass exactly one command.")
-
-    testing push
