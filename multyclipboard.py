@@ -1,1 +1,6 @@
-print("hello")
+import sys
+import clipboard
+import json
+
+
+
